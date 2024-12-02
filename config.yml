@@ -53,7 +53,7 @@ params:
     profileMode:
           enabled: true
           title: Daniel Cruz Doggenweiler
-          subtitle: "I am a PhD Fellow at the University of Copenhagen and an affiliated researcher at King's College London. My research focuses mostly on the behavior and perceptions of political elites, with a specific interest in Latin America. I use primarily survey experiments and different causal identification strategies in my research. My project is part of the Advocacy in Digital Democracy project, which is led by Anne Rasmussen who is also my supervisor, and is co-supervised by Gregory Eady. I hold a Master's degree in Social Science Research from the Humboldt Universität zu Berlin and a BA in Political Science from the Pontificia Universidad Católica de Chile."
+          subtitle: "I am a PhD Fellow at the University of Copenhagen and an affiliated researcher at King's College London. My research focuses mostly on the behavior and perceptions of political elites, with a specific interest in Latin America. I use primarily survey experiments and different causal identification strategies in my research. I hold a Master's degree in Social Science Research from the Humboldt Universität zu Berlin and a BA in Political Science from the Pontificia Universidad Católica de Chile."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -64,34 +64,16 @@ params:
               url: courses/
             - name: Data
               url: data/
-            - name: Books
-              url: books/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-
+          
     socialIcons:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:moritz.maria.von.igelfeld@gmail.com
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
+          url: mailto:daniel.cruz@ifs.ku.dk
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
         - name: GitHub
           url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@alexandermccallsmithoffici9000
         - name: Twitter
           url: https://twitter.com/McCallSmith
 
@@ -101,7 +83,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Daniel Cruz Doggenweiler"
       icon: favicon.ico
       iconHeight: 18
 
