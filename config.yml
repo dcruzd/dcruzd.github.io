@@ -27,8 +27,7 @@ menu:
           weight: 6
 
 params:
-    description: "I am a PhD Fellow at the University of Copenhagen and an affiliated researcher at King's College London. My research focuses mostly on the behavior and perceptions of political elites, with a specific interest in Latin America. I use primarily survey experiments and different causal identification strategies in my research. My project is part of the Advocacy in Digital Democracy project, which is led by Anne Rasmussen who is also my supervisor, and is co-supervised by Gregory Eady.
-    I hold a Master's degree in Social Science Research from the Humboldt Universität zu Berlin and a BA in Political Science from the Pontificia Universidad Católica de Chile. "
+    description: "I am a PhD Fellow at the University of Copenhagen and an affiliated researcher at King's College London. "
     author: Daniel Cruz Doggenweiler
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
