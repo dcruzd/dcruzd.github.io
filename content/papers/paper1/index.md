@@ -1,18 +1,18 @@
 ---
-title: "Unusual Uses For Olive Oil" 
-date: 2013-01-15
-lastmod: 2024-07-12
-tags: ["philology","oleic science","history of oil","Mediterranean world"]
-author: ["Detlev Amadeus Unterholzer","Moritz-Maria von Igelfeld"]
-description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
-summary: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil." 
+title: "The Influence of Episodic Information on Political Elites: Evidence from Chile 
+date: 2025-01-15
+lastmod: 2025-01-03
+tags: ["political elites","political behavior","survey experiments","political psychology"]
+author: ["Daniel Cruz"]
+description: "This paper explores the effect of anecdotes on political elites' perceptions. R & R in the Journal of Political Behavior, 2025." 
+summary: "This paper explores the effect of anecdotes on political elites' perceptions compared to that of statistical information. It shows that anecdotes (also called episodic information) from random citizens have a substantially stronger effect than that of statistical information in several outcomes" 
 cover:
     image: "paper1.png"
-    alt: "Some Uses For Olive Oil"
+    alt: "Episodic Information and Political Elites"
     relative: false
 editPost:
     URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Oleic Science"
+    Text: "Journal of Political Behavior"
 
 ---
 
@@ -28,11 +28,11 @@ editPost:
 
 ##### Abstract
 
-This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+Are politicians more influenced by anecdotal evidence than statistical data? While extensive research has explored the implications of this question for the general public, studies examining the role of anecdotes or exemplars among politicians are lacking. If politicians are disproportionately influenced by information derived from personal experiences (episodic information), their agendas, priorities, and perceptions may become
+biased. Through a series of preregistered survey experiments conducted among elected officials in Chile, this study examines the extent to which politicians are more sensitive to episodic evidence over statistical information. The findings suggest that politicians consistently ignore statistical information while relying more on episodic information, measured as the effect of each type of information on both their assessment of policies and how much they remember about experiences in a public service. Furthermore, the study reveals that the effect size and magnitude are comparable to those observed among the general population. These findings shed light on politicians’ use of this cognitive shortcut, and raises the need for further research on this topic.
 ---
 
-##### Figure 6: Some Uses For Olive Oil
+##### Figure 6: Effects of Episodic Information on Policy Evaluation
 
 ![](paper1.png)
 
@@ -40,23 +40,10 @@ This paper reviews unusual uses for olive oil throughout the Mediterranean world
 
 ##### Citation
 
-Unterholzer, Detlev A., and  Moritz-Maria von Igelfeld. 2013. "Unusual Uses For Olive Oil." *Journal of Oleic Science* 34 (1): 449–489. http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil.
+Forthcoming
 
-```BibTeX
-@article{UI13,
-author = {Detlev A. Unterholzer and Moritz-Maria von Igelfeld},
-year = {2013},
-title ={Unusual Uses For Olive Oil},
-journal = {Journal of Oleic Science},
-volume = {34},
-number = {1},
-pages = {449--489},
-url = {http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil}}
-```
+
 
 ---
 
-##### Related material
 
-+ [Presentation slides](presentation1.pdf)
-+ [Summary of the paper](https://www.penguinrandomhouse.com/books/110403/unusual-uses-for-olive-oil-by-alexander-mccall-smith/)
