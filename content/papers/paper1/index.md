@@ -5,13 +5,13 @@ lastmod: 2025-01-03
 tags: ["political elites","political behavior","survey experiments","political psychology"]
 author: ["Daniel Cruz"]
 description: "This paper explores the effect of anecdotes on political elites' perceptions. R & R in the Journal of Political Behavior, 2025." 
-summary: "This paper explores the effect of anecdotes on political elites' perceptions compared to that of statistical information. It shows that anecdotes (also called episodic information) from random citizens have a substantially stronger effect than that of statistical information in several outcomes" 
+summary: "This paper explores the effect of anecdotes on political elites. It shows that anecdotes (or episodic information) have a substantially stronger effect than that of statistical information in several outcomes" 
 cover:
     image: "paper1.png"
     alt: "Episodic Information and Political Elites"
     relative: false
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
+    URL: "https://github.com/dcrud/dcrud.github.io"
     Text: "Journal of Political Behavior"
 
 ---
