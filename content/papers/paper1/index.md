@@ -1,5 +1,5 @@
 ---
-title: "The Influence of Episodic Information on Political Elites: Evidence from Chile 
+title: "The Influence of Episodic Information on Political Elites: Evidence from Chile"
 date: 2025-01-15
 lastmod: 2025-01-03
 tags: ["political elites","political behavior","survey experiments","political psychology"]
