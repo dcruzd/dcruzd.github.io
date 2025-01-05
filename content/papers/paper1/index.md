@@ -11,7 +11,7 @@ cover:
     alt: "Episodic Information and Political Elites"
     relative: false
 editPost:
-    URL: ""https://github.com/pmichaillat/hugo-website"
+    URL: "https://github.com/pmichaillat/hugo-website"
     Text: "Journal of Political Behavior"
 
 ---
