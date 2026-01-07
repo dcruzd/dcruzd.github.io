@@ -53,7 +53,7 @@ params:
     profileMode:
           enabled: true
           title: Daniel Cruz Doggenweiler
-          subtitle: "I am a PhD Fellow at the University of Copenhagen and an affiliated researcher at King's College London. My research focuses mostly on the behavior and perceptions of political elites, with a specific interest in Latin America. I use primarily survey experiments and different causal identification strategies in my research. I hold a Master's degree in Social Science Research from the Humboldt Universität zu Berlin and a BA in Political Science from the Pontificia Universidad Católica de Chile."
+          subtitle: "I am a Posdoctoral Fellow at the University of Copenhagen and an affiliated researcher at King's College London. My research focuses mostly on the behavior and perceptions of political elites, with a specific interest in Latin America. I use primarily survey experiments and different causal identification strategies in my research. I hold a PhD and a MSc in Political Science from the University of Copenhagen, a Master's degree in Social Science Research from the Humboldt Universität zu Berlin, and a BA in Political Science from the Pontificia Universidad Católica de Chile."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -71,7 +71,7 @@ params:
         - name: Email
           url: mailto:daniel.cruz@ifs.ku.dk
         - name: Google Scholar
-          url: https://scholar.google.com/
+          url: https://scholar.google.com/citations?user=ISMOrZwAAAAJ&hl=es
         - name: GitHub
           url: https://github.com/dcruzd
         - name: Twitter
