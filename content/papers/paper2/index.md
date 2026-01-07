@@ -1,6 +1,6 @@
 ---
 title: "Elected Losers. How Party Performance Affects Legislators’ Satisfaction with Democracy" 
-date: 2004-12-28
+date: 2025-01-01
 lastmod: 2026-01-07
 tags: ["political elites","election results","winner-loser","legislators","political pscyhology"]
 author: ["Daniel Cruz", "Christoffer H. Dausgaard"]
