@@ -7,7 +7,6 @@ author: ["Daniel Cruz"]
 description: "This paper explores the effect of anecdotes on political elites' perceptions. R & R in the Journal of Political Behavior, 2025." 
 summary: "This paper explores the effect of anecdotes on political elites. It shows that anecdotes (or episodic information) have a substantially stronger effect than that of statistical information in several outcomes" 
 cover:
-    image: "paper1.png"
     alt: "Episodic Information and Political Elites"
     relative: false
 editPost:
