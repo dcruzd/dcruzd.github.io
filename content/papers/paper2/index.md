@@ -1,18 +1,16 @@
 ---
-title: "The Finer Points of Sausage Dogs" 
+title: "Elected Losers. How Party Performance Affects Legislators’ Satisfaction with Democracy" 
 date: 2004-12-28
-lastmod: 2024-07-12
-tags: ["zoology","sausage dogs","canine pulmonary efficiency","canine science","experimental zoology"]
-author: ["Florianus Prinzel", "Moritz-Maria von Igelfeld"]
-description: "This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004." 
-summary: "This paper studies the pulmonary efficiency of sausage dogs through several experiments." 
+lastmod: 2026-01-07
+tags: ["political elites","election results","winner-loser","legislators","political pscyhology"]
+author: ["Daniel Cruz", "Christoffer H. Dausgaard"]
+summary: "Does party performance in elections shape elected politicians' satisfaction with democracy? This article argues that elected officials grow more dissatisfied with democracy when their party loses influence over the executive or legislative branch. Using longitudinal data from 8,141 Latin American legislators, we show that both opposition status and seat losses reduce satisfaction with democracy and trust in elections." 
 cover:
-    image: "paper2.png"
-    alt: "Dimensions of a sausage dog"
+    alt: "Elected Losers"
     relative: false
 editPost:
     URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Canine Science"
+    Text: "Working Paper"
 
 ---
 
@@ -21,14 +19,12 @@ editPost:
 ##### Download
 
 + [Paper](paper2.pdf)
-+ [Online appendix](appendix2.pdf)
-+ [Code and data](https://github.com/pmichaillat/wunk)
 
 ---
 
 ##### Abstract
 
-This paper studies the pulmonary efficiency of sausage dogs. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur: $\sin(\theta) = x^2 - \exp(1+\chi)$. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor $\zeta$ incididunt ut labore et dolore magna aliqua: $p(x) = \int \cos(\zeta) d\zeta - \theta$. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Does party performance in elections shape elected politicians' satisfaction with democracy? While prior work shows that losing candidates become less satisfied with democratic institutions, we know little about how \textit{winning} politicians respond when their party loses power. This article argues that elected officials grow more dissatisfied with democracy when their party loses influence over the executive or legislative branch. Using longitudinal data from 8,141 Latin American legislators, we show that both opposition status and seat losses reduce satisfaction with democracy and trust in elections. These effects persist even in consolidated democracies. Interviews with opposition legislators suggest that this dissatisfaction is often channeled through frustrations with internal party dynamics following electoral setbacks. The findings carry important implications for democratic stability: unlike losing candidates, dissatisfied elected losers retain formal decision-making power and, as visible electoral winners, may also amplify broader public discontent with democracy.
 
 ---
 
@@ -40,23 +36,8 @@ This paper studies the pulmonary efficiency of sausage dogs. Lorem ipsum dolor s
 
 ##### Citation
 
-Prinzel, Florianus, and Moritz-Maria von Igelfeld. 2004. "The Finer Points of Sausage Dogs." *Journal of Canine Science* 43 (2): 89–109. http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs.
+Forthcoming
 
-```BibTeX
-@article{PI04,
-author = {Florianus Prinzel and Moritz-Maria von Igelfeld},
-year = {2004},
-title ={The Finer Points of Sausage Dogs},
-journal = {Journal of Canine Science},
-volume = {43},
-number = {2},
-pages = {89--109},
-url = {http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs}}
-```
 
 ---
 
-##### Related material
-
-+ [Presentation slides](presentation2.pdf)
-+ [Wikipedia entry](https://en.wikipedia.org/wiki/The_Finer_Points_of_Sausage_Dogs)
