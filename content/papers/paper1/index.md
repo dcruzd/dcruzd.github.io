@@ -3,7 +3,7 @@ title: "The Influence of Episodic Information on Political Elites: Evidence from
 tags: ["political elites","political behavior","survey experiments","political psychology"]
 author: ["Cruz, Daniel (2025)"]
 journal: Political Behavior
-description: "This paper explores the effect of anecdotes on political elites' perceptions. R & R in the Journal of Political Behavior, 2025." 
+description: "This paper explores the effect of anecdotes on political elites' perceptions. Political Behavior, 2025." 
 summary: "This paper explores the effect of anecdotes on political elites. It shows that anecdotes (or episodic information) have a substantially stronger effect than that of statistical information in several outcomes" 
 cover:
     alt: "Episodic Information and Political Elites"
