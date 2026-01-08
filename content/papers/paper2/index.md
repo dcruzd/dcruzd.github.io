@@ -7,7 +7,7 @@ cover:
     alt: "Elected Losers"
     relative: false
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
+    URL: ""
     Text: "Working Paper"
 
 ---
