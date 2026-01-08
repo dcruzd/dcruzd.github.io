@@ -1,7 +1,7 @@
 ---
 title: "Elected Losers. How Party Performance Affects Legislators’ Satisfaction with Democracy" 
 tags: ["political elites","election results","winner-loser","legislators","political pscyhology"]
-author: ["Cruz, Daniel; Christoffer H. Dausgaard"]
+author: ["Cruz, Daniel; Christoffer H. Dausgaard (2025) - Working Paper"]
 summary: "Does party performance in elections shape elected politicians' satisfaction with democracy? This article argues that elected officials grow more dissatisfied with democracy when their party loses influence over the executive or legislative branch. Using longitudinal data from 8,141 Latin American legislators, we show that both opposition status and seat losses reduce satisfaction with democracy and trust in elections." 
 cover:
     alt: "Elected Losers"
