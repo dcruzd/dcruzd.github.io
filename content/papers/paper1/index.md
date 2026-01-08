@@ -10,7 +10,7 @@ cover:
     relative: false
 editPost:
     URL: "https://doi.org/10.1007/s11109-025-10034-6"
-    Text: "Political Behavior"
+    Text: "Link"
 
 ---
 
