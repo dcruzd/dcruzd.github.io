@@ -27,6 +27,12 @@ Empirical work on policy diffusion has established that policymakers are more li
 
 ---
 
+##### Table 1: The effects of receiving an invitation from a co-national peer politician
+
+![](paper3.png)
+
+---
+
 ##### Citation
 
 Forthcoming
