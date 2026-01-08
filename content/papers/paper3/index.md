@@ -3,7 +3,7 @@ title: "Why are Politicians More Likely to Learn From Neighbors? Behavioral Evid
 tags: ["policy diffusion","political elites","policy learning","field experiment","political behavior"]
 author: ["Cruz, Daniel", "Miguel M. Pereira (2025) - Working Paper"]
 description: "This paper studies how proximity matters for policy diffusion among political elites." 
-summary: "Empirical work on policy diffusion has established that policymakers are more likely to learn from the experiences of neighbors. Yet, the underlying mechanism behind spatially clustered policy learning remains unclear. We adjudicate between mechanisms using data from two field experiments from local politicians in Germany, the United Kingdom and the United States." 
+summary: "Empirical work on policy diffusion has established that policymakers are more likely to learn from the experiences of neighbors. Yet, the underlying mechanism behind spatially clustered policy learning remains unclear. We adjudicate between mechanisms using data from two field experiments." 
 cover:
     alt: "Proximity Paper"
     relative: false
