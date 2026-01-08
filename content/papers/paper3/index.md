@@ -1,17 +1,15 @@
 ---
-title: "Your Inner Hedgehog" 
-date: 2021-04-06
-lastmod: 2024-10-18
-tags: ["social psychology","inner hedgehog","academia","experimental psychology","invasive thoughts"]
-author: ["Hilda Schreiber-Ziegler", "Moritz-Maria von Igelfeld"]
-description: "This paper describes the inner hedgehog, a psychological condition widespread in academia. Published in the Journal of Socio-Experimental Psychology, 2021." 
-summary: "Using several case studies, this paper describes the inner hedgehog, a psychological condition widespread in academic occupations. The condition has lasting consequences and no known cure." 
+title: "Why are Politicians More Likely to Learn From Neighbors? Behavioral Evidence From Three Advanced Democracies" 
+tags: ["policy diffusion","political elites","policy learning","field experiment","political behavior"]
+author: ["Cruz, Daniel", "Miguel M. Pereira (2025) - Working Paper"]
+description: "This paper studies how proximity matters for policy diffusion among political elites." 
+summary: "Empirical work on policy diffusion has established that policymakers are more likely to learn from the experiences of neighbors. Yet, the underlying mechanism behind spatially clustered policy learning remains unclear. We adjudicate between mechanisms using data from two field experiments from local politicians in Germany, the United Kingdom and the United States." 
 cover:
-    alt: "Vizualisation of an inner hedgehog"
+    alt: "Proximity Paper"
     relative: false
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Socio-Experimental Psychology"
+    URL: ""
+    Text: "Working Paper"
 
 ---
 
@@ -20,33 +18,18 @@ editPost:
 ##### Download
 
 + [Paper](paper3.pdf)
-+ [Raw data](https://github.com/pmichaillat/recession-indicator)
 
 ---
 
 ##### Abstract
 
-Using several case studies, this paper describes the inner hedgehog, a psychological condition widespread in academic occupations. The condition has lasting consequences and no known cure. Mauris tincidunt quam a libero consequat, nec pharetra nunc tristique. Pellentesque eget ipsum ut dui laoreet congue ut nec nulla. Nulla facilisi. Sed consequat, odio ac aliquet tempor, turpis augue auctor mauris, at malesuada sem dolor eget libero. Nullam iaculis malesuada risus, id fringilla quam sagittis ac. Fusce congue vel ex et facilisis. Integer volutpat eros ut urna efficitur, id efficitur sapien pharetra.
+Empirical work on policy diffusion has established that policymakers are more likely to learn from the experiences of neighbors. Yet, the underlying mechanism behind spatially clustered policy learning remains unclear. Proximity may signal contextual similarity, leading officials to expect a better policy fit from nearby constituencies. However, proximity may impact policy learning simply due to information exposure. We adjudicate between these mechanisms by repurposing data from two field experiments that delivered information on new policy innovations to local politicians in Germany, the United Kingdom and the United States while varying the constituency of the early adopters. Across studies, issues, and countries, we find no reliable evidence that geographic proximity to early adopters predicts interest in policy learning. The results reveal that proximity effects in studies of policy diffusion likely arise from differential exposure rather than contextual fit and contribute more broadly to our understanding of bounded rationality and elite behavior.
 
 ---
 
 ##### Citation
 
-Schreiber-Ziegler, Hilda, and Moritz-Maria von Igelfeld. 2021. "Your Inner Hedgehog." *Journal of Socio-Experimental Psychology* 131 (2): 1299–1302.
-
-```BibTeX
-@article{SZI21,
-author = {Hilda Schreiber-Ziegler and Moritz-Maria von Igelfeld},
-year = {2021},
-title ={Your Inner Hedgehog},
-journal = {Journal of Socio-Experimental Psychology},
-volume = {131},
-number = {2},
-pages = {1299--1302}}
-```
+Forthcoming
 
 ---
 
-##### Related material
-
-+ [Nontechnical summary](https://www.alexandermccallsmith.com/book/your-inner-hedgehog)
