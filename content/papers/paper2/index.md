@@ -26,7 +26,7 @@ Does party performance in elections shape elected politicians' satisfaction with
 
 ---
 
-##### Figure 2: Dimensions of a sausage dog
+##### Figure 2: Effect of Electoral Results on Satisfaction with Democracy and Trust in Elections
 
 ![](paper2.png)
 
