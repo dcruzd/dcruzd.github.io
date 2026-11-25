@@ -63,7 +63,7 @@ params:
         - name: CV
           url: cv_me.pdf
         - name: Email
-          url: mailto:daniel.cruz@ifs.ku.dk
+          url: mailto:daniel.cruz@wzb.eu
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=ISMOrZwAAAAJ&hl=es
         - name: GitHub
